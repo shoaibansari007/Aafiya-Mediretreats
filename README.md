@@ -8,5 +8,3 @@ This repository contains the source code for a responsive web page dedicated to 
 2. **Loader Top Bar:** A loader top bar is implemented to indicate to users that content is being loaded.
 3. **Accordion:** Information is organized in an accordion format, allowing users to expand/collapse sections for easy navigation.
 4. **Owl Carousel:** Sliders are implemented using Owl Carousel, providing an interactive way to showcase content.
-
-## File Structure
